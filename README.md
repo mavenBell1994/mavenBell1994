@@ -1,2 +1,4 @@
 # mavenBell1994
-Just learning
+hi bro.
+
+I'm a undergraduate.I like node.
